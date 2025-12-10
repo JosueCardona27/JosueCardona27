@@ -1,19 +1,38 @@
-#  Hola, soy Josué
+# 👋 Hola, soy Josué
 
 💻 Desarrollador en formación con mayor dominio en **Java, C, HTML y CSS**.  
 Me gusta crear proyectos donde se combine la lógica de programación con el diseño web.
 
-🚀 **Proyecto destacado:**  
+---
+
+## 🚀 Proyecto Destacado
+
 🔗 **PI CRUD – La Parrilla Azteca**  
 https://github.com/NexusJC/PI-CRUD  
+
 Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, imágenes y base de datos.
+
+---
+
+## 🧑‍💻 Lenguajes que manejo
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,kotlin" />
+</p>
+
+- Java  
+- C  
+- HTML  
+- CSS  
+- JavaScript  
+- Kotlin  
 
 ---
 
 ## 🛠 Herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,js,mysql,vscode,androidstudio,unity,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,unity,idea" />
 </p>
 
 - Git  
@@ -21,7 +40,6 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 - JavaScript  
 - MySQL Workbench  
 - Visual Studio Code  
-- Android Studio  
 - Unity Hub  
 - IntelliJ IDEA  
 
