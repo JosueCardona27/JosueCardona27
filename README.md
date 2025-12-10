@@ -25,7 +25,6 @@ Sistema completo de gesti√≥n con operaciones CRUD, usuarios, roles, pedidos, im√
 - HTML  
 - CSS  
 - JavaScript  
-- Kotlin  
 
 ---
 
