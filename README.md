@@ -1,4 +1,4 @@
-# 👋 Hola, soy Josué
+#  Hola, soy Josué
 
 💻 Desarrollador en formación con mayor dominio en **Java, C, HTML y CSS**.  
 Me gusta crear proyectos donde se combine la lógica de programación con el diseño web.
@@ -63,5 +63,5 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 ## 🎯 Objetivo
 Seguir desarrollando mis habilidades como programador, mejorar mi lógica, fortalecer mis conocimientos backend y participar en proyectos cada vez más completos y reales.
 
-✨ Gracias por visitar mi perfil.
+ Gracias por visitar mi perfil.
 
