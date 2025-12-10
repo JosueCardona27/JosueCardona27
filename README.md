@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, soy Josué
 
-<!--
-**JosueCardona27/JosueCardona27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación con enfoque en programación y diseño web.  
+Tengo mayor dominio en **Java, C, HTML y CSS**, y me gusta construir proyectos que integren tanto la lógica como la parte visual.
 
-Here are some ideas to get you started:
+🚀 Formé parte del desarrollo del **PI CRUD del sistema “La Parrilla Azteca”**, donde se implementó un sistema completo de gestión con operaciones CRUD.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Lenguajes y tecnologías
+- Java  
+- C  
+- HTML  
+- CSS  
+
+## 🎯 Objetivo
+Seguir creciendo como desarrollador, fortalecer mi lógica de programación y crear sistemas cada vez más completos y funcionales.
+
+✨ Gracias por visitar mi perfil.
+
