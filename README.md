@@ -17,7 +17,7 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 ## 🧑‍💻 Lenguajes que manejo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,kotlin" />
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js" />
 </p>
 
 - Java  
@@ -36,7 +36,6 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 
 - Git  
 - GitHub  
-- JavaScript  
 - MySQL Workbench  
 - Visual Studio Code  
 - Unity Hub  
@@ -52,13 +51,12 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 ## ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,kotlin" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 </p>
 
 - Node.js  
 - Express  
 - MySQL  
-- Kotlin  
 
 ---
 
@@ -66,3 +64,4 @@ Sistema completo de gestión con operaciones CRUD, usuarios, roles, pedidos, im�
 Seguir desarrollando mis habilidades como programador, mejorar mi lógica, fortalecer mis conocimientos backend y participar en proyectos cada vez más completos y reales.
 
 ✨ Gracias por visitar mi perfil.
+
